@@ -1,1 +1,16 @@
 
+{
+  "objects": [
+    {"key": "animal", "value": "cat"},
+    {"key": "animal", "value": "mouse"},
+    {"key": "animal", "value": "dog"},
+    {"key": "animal", "value": "bird"},
+    {"key": "fruit", "value": "banana"},
+    {"key": "fruit", "value": "orange"},
+    {"key": "fruit", "value": "apple"},
+    {"key": "fruit", "value": "kiwi"},
+    {"key": "city", "value": "Malaga"},
+    {"key": "city", "value": "Madrid"},
+    {"key": "city", "value": "Barcelona"}
+  ]
+}
